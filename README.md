@@ -1,0 +1,9 @@
+<html> 
+<head> 
+<title>Practical-7 web page</title> 
+</head> 
+<body> 
+<h1>Welcome to My Web Page</h1> 
+<p>This is my first HTML page published online on github.</p> 
+</body> 
+</html>
